@@ -1,0 +1,165 @@
+{
+  "personal": {
+    "name": "Aryan",
+    "tagline": "Full Stack Developer & Competitive Programmer",
+    "location": "Charkhi Dadri, Haryana, India",
+    "openToWork": true,
+    "bio": [
+      "I'm a passionate Full Stack Developer and Competitive Programmer currently in my 3rd year at Lovely Professional University.",
+      "My journey in tech started with a fascination for problem-solving — which led me to solve 1600+ problems combined across LeetCode and GeeksforGeeks, earning a contest rating of 1950+ on LeetCode (Top 4.23% globally).",
+      "On the development side, I love building end-to-end web applications using modern tools like React, Node.js, and Express. I'm driven by the challenge of making complex systems feel simple and intuitive."
+    ]
+  },
+
+  "socials": {
+    "github":   "https://github.com/Techy-Aryan-01",
+    "linkedin": "https://www.linkedin.com/in/aryan-yadav03082005/",
+    "leetcode": "https://leetcode.com/u/TechyAryan111/",
+    "gfg":      "https://www.geeksforgeeks.org/profile/krao3cu14",
+    "codolio":  "https://codolio.com/profile/TechyAryan",
+    "twitter":  "https://x.com/goyal_kesh37478"
+  },
+
+  "cv": "Keshav_Goyal_CV.pdf",
+
+  "stats": [
+    { "label": "LeetCode Problems", "value": 1300, "suffix": "+" },
+    { "label": "GFG Problems",      "value": 316, "suffix": "+" },
+    { "label": "Contest Rating",    "value": 1967, "suffix": "" },
+    { "label": "Projects Built",    "value": 4,   "suffix": "" }
+  ],
+
+  "skills": [
+    {
+      "category": "Languages",
+      "icon": "⚡",
+      "items": [
+        { "name": "C++",        "level": 92 },
+        { "name": "JavaScript", "level": 85 },
+        { "name": "HTML5",      "level": 90 },
+        { "name": "CSS3",       "level": 85 }
+      ]
+    },
+    {
+      "category": "Frontend",
+      "icon": "🎨",
+      "items": [
+        { "name": "React",       "level": 82 },
+        { "name": "Tailwind CSS","level": 80 },
+        { "name": "Vite",        "level": 78 },
+        { "name": "EJS",         "level": 70 }
+      ]
+    },
+    {
+      "category": "Backend",
+      "icon": "🗄️",
+      "items": [
+        { "name": "Node.js",    "level": 78 },
+        { "name": "Express.js", "level": 75 },
+        { "name": "REST APIs",  "level": 72 }
+      ]
+    },
+    {
+      "category": "DSA & CP",
+      "icon": "🧠",
+      "items": [
+        { "name": "Algorithms",         "level": 90 },
+        { "name": "Data Structures",    "level": 88 },
+        { "name": "Dynamic Programming","level": 80 },
+        { "name": "Graph Theory",       "level": 75 }
+      ]
+    },
+    {
+      "category": "Tools",
+      "icon": "🔧",
+      "items": [
+        { "name": "Git & GitHub", "level": 82 },
+        { "name": "VS Code",      "level": 90 },
+        { "name": "Postman",      "level": 70 },
+        { "name": "npm",          "level": 78 }
+      ]
+    }
+  ],
+
+  "achievements": {
+    "leetcode": {
+      "handle":        "@Aryan",
+      "url":           "https://leetcode.com/u/Keshavgoyal1/",
+      "totalSolved":   "1300+",
+      "contestRating": "1950+",
+      "globalRank":    "Top 4.23%",
+      "badges":        24,
+      "easy":          399,
+      "medium":        693,
+      "hard":          191
+    },
+    "gfg": {
+      "handle":       "@goyalkesalnf",
+      "url":          "https://www.geeksforgeeks.org/profile/goyalkesalnf?tab=activity",
+      "totalSolved":  "316+",
+      "codingScore":  1174,
+      "potd":         123,
+      "instituteRank":"#54",
+      "longestStreak": 26
+    },
+    "codolio": {
+      "handle": "@keshavGoyal",
+      "url":    "https://codolio.com/profile/keshavGoyal"
+    }
+  },
+
+  "projects": [
+    {
+      "title":       "Gemini Clone",
+      "icon":        "✨",
+      "description": "A fully functional clone of Google's Gemini AI interface built with React. Features streaming text responses, conversation history, context management, and a pixel-perfect modern UI.",
+      "tech":        ["React", "Vite", "Gemini API", "CSS"],
+      "github":      "https://github.com/Keshav-goyal-1/Gemini-clone",
+      "live":        "",
+      "featured":    true
+    },
+    {
+      "title":       "Employee Management System",
+      "icon":        "👥",
+      "description": "A full-stack EMS application with complete CRUD operations for managing employee records. Features role-based access, department management, and a clean admin dashboard.",
+      "tech":        ["Node.js", "Express", "EJS", "MongoDB"],
+      "github":      "https://github.com/Keshav-goyal-1/EMS/tree/main/EMS",
+      "live":        "",
+      "featured":    false
+    },
+    {
+      "title":       "AI Trip Planner",
+      "icon":        "✈️",
+      "description": "An intelligent travel planning application powered by AI. Users can input preferences and destination details to receive customized itineraries and suggestions.",
+      "tech":        ["React", "AI API", "JavaScript"],
+      "github":      "https://github.com/Keshav-goyal-1",
+      "live":        "",
+      "featured":    false
+    },
+    {
+      "title":       "Library Management System",
+      "icon":        "📚",
+      "description": "A JavaScript-based library management system for tracking books, borrowers, and due dates. Features search, cataloging, and borrower management with a clean interface.",
+      "tech":        ["JavaScript", "HTML", "CSS"],
+      "github":      "https://github.com/Keshav-goyal-1",
+      "live":        "",
+      "featured":    false
+    }
+  ],
+
+  "education": [
+    {
+      "degree":      "Bachelor of Technology — Computer Science",
+      "institution": "Lovely Professional University",
+      "period":      "2023 – 2027",
+      "location":    "Phagwara, Punjab",
+      "status":      "Currently Enrolled",
+      "points": [
+        "Specializing in Data Structures, Algorithms, and Full Stack Web Development",
+        "Ranked #54 in institute on GeeksforGeeks leaderboard",
+        "Active participant in competitive programming contests",
+        "Building real-world projects with React, Node.js, and modern web technologies"
+      ]
+    }
+  ]
+}
